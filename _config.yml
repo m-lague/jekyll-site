@@ -2,8 +2,8 @@
 title: Jekflix | A theme for Jekyll
 email: youremail@xyz.com
 description: Some text about your blog.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekflix.rossener.com" # the base hostname & protocol for your site
+baseurl: "/jekyll-site" # the subpath of your site, e.g. /blog
+url: "https://m-lague.github.io/jekyll-site/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
