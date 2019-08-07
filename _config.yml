@@ -1,21 +1,27 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekyll-site/" # the subpath of your site, e.g. /blog
-url: "https://m-lague.github.io/jekyll-site/" # the base hostname & protocol for your site
+title: Mathieu Lagüe | Startup your business
+email: mathieu@lague.me
+description: Je suis Mathieu Lagüe et je peux vous aider à démarrer votre
+ business, créer un produit ou service et l'amener jusqu'au "product/market fit"
+ en passant par le "problem/solution fit"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://m-lague.github.io/my-site/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: Mathieu Lagüe
+user_description: En suivant les principes du Lean Startup nous partirons du
+problem/solution fit pour avoir les données nécessaires sur l'environnement et
+ les problèmes rencontrés par vos utilisateurs. Une fois ces métrics en main
+ nous réflechirons et itérerons ensemble pour arriver au product/market fit.
+ En bref je suis votre cofondateur par interim.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
+github_username: m-lague
 facebook_username: facebook_username
-twitter_username: twitter_username
+twitter_username: MathieuLAGUE
 instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
@@ -37,11 +43,11 @@ plugins:
 # For external links add external: true
 links:
   - title: Home
-    url: /jekyll-site/
+    url: /
   - title: About
-    url: jekyll-site/about/
+    url: about/
   - title: Contact
-    url: jekyll-site/contact/
+    url: contact/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
