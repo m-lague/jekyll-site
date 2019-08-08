@@ -5,7 +5,7 @@ description: Je suis Mathieu Lagüe et je peux vous aider à démarrer votre
  business, créer un produit ou service et l'amener jusqu'au "product/market fit"
  en passant par le "problem/solution fit"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://m-lague.github.io" # the base hostname & protocol for your site
+url: "https://mathieu.lague.me" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
@@ -46,6 +46,7 @@ links:
     url: /
   - title: About
     url: /about/
+    external: true
   - title: Contact
     url: /contact/
   - title: Portfolio
