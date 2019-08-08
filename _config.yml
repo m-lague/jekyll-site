@@ -5,13 +5,13 @@ description: Je suis Mathieu Lagüe et je peux vous aider à démarrer votre
  business, créer un produit ou service et l'amener jusqu'au "product/market fit"
  en passant par le "problem/solution fit"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://m-lague.github.io/my-site/" # the base hostname & protocol for your site
+url: "https://m-lague.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: Mathieu Lagüe
-user_description: En suivant les principes du Lean Startup nous partirons
- du problem/solution fit pour avoir les données nécessaires sur l'environnement et
+user_description: En suivant les principes du Lean Startup nous partirons du
+ problem/solution fit pour avoir les données nécessaires sur l'environnement et
  les problèmes rencontrés par vos utilisateurs. Une fois ces métrics en main
  nous réflechirons et itérerons ensemble pour arriver au product/market fit.
  En bref je suis votre cofondateur par interim.
@@ -45,9 +45,12 @@ links:
   - title: Home
     url: /
   - title: About
-    url: about/
+    url: /about/
   - title: Contact
-    url: contact/
+    url: /contact/
+  - title: Portfolio
+    url: /portofolio/
+
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
