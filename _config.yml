@@ -1,20 +1,21 @@
 # Site Settings
 title: Mathieu Lagüe | Startup your business
 email: mathieu@lague.me
-description: Je suis Mathieu Lagüe et je peux vous aider à démarrer votre
- business, créer un produit ou service et l'amener jusqu'au "product/market fit"
- en passant par le "problem/solution fit"
+description: En suivant les principes du Lean Startup nous partirons du
+ problem/solution fit pour avoir les données nécessaires sur l'environnement et
+ les problèmes rencontrés par vos utilisateurs. Une fois ces métrics en main
+ nous réflechirons et itérerons ensemble pour arriver au product/market fit.
+ En bref je suis votre cofondateur par interim.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mathieu.lague.me" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: Mathieu Lagüe
-user_description: En suivant les principes du Lean Startup nous partirons du
- problem/solution fit pour avoir les données nécessaires sur l'environnement et
- les problèmes rencontrés par vos utilisateurs. Une fois ces métrics en main
- nous réflechirons et itérerons ensemble pour arriver au product/market fit.
- En bref je suis votre cofondateur par interim.
+user_description: Je suis <a href="https://mathieu.lague.me">Mathieu Lagüe</a> et je peux vous aider à démarrer votre
+ business, créer un produit ou service et l'amener jusqu'au "product/market fit"
+ en passant par le "problem/solution fit".
+ <a href="https://mathieu.lague.me/about/" target="">À propos de moi</a>
 disqus_username: disqus_username
 
 # Social Media
