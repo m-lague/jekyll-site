@@ -47,7 +47,6 @@ links:
     url: /
   - title: About
     url: /about/
-    external: true
   - title: Contact
     url: /contact/
   - title: Portfolio
