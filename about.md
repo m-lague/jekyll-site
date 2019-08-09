@@ -1,17 +1,50 @@
 ---
 layout: page
-title: About
-description: Some description.
+title: About Mathieu Lagüe
+description: Profil de Mathieu Lagüe. Expertise en innovation et entreprenariat
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
+<img itemprop="image" class="img-rounded avatar" src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar.png" alt="Mathieu Lagüe">
 
-## About
+## Bonjour,
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Je suis [Mathieu Lagüe], et je peux vous aider à démarrer votre business, créer un produit, acquérir vos premiers clients et mettre en place une équipe technique.
+
+En tant que fondateur non-technique, votre principal problème est la **concrétisation** de votre **vision**. Je peux être votre `CTO/lead developer` par intérim.
+
+En tant que fondateur technique, votre principal problème  est **l'adoption** par les utilisateurs de votre **création**. Je peux être votre `Product Manager/Business developer` par intérim.
+
+### Mon expertise
+
+Nous travaillerons en utilisant la méthodologie [Lean Startup] en commençant par le `problem/solution fit` pour atteindre le `product/market fit`.
+Je peux intervenir au sein du projet soit du coté technique soit du coté business.
+
+>Ce que j'aime: **c'est résoudre les problèmes**.
+
+```
+
+
+```
+
+Kit de survie que j'ai toujours sur moi: [Ruby on Rails], [Jekyll], [GitHub] pour la partie technique et [Lean Stack], [Slack], [Growth Hacking] pour la partie startégie et gestion de projet.
+
+Je m'adapte aussi aux outils que vous utilisez déjà pour fluidifier au maximum les échanges et le travail.
+
+
+Vous souhaitez qu'on en parle ? [Écrivez-moi.]({{ site.url }}{{ site.baseurl }}/contact/)
+
+> Vous ne pouvez pas demander aux clients ce qu'ils veulent et ensuite essayer de le leur donner. Au moment où vous l'aurez construit, ils voudront autre chose.
+> (*Steve Jobs*)
+
+
+[Mathieu Lagüe]: https://mathieu.lague.me
+[Lean Startup]: https://www.lean-startup.net/
+[Ruby on Rails]: https://rubyonrails.org/
+[Jekyll]: https://jekyllrb.com/
+[GitHub]: https://github.com/
+[Lean Stack]: https://leanstack.com/
+[Basecamp]: https://basecamp.com/
+[Slack]: https://slack.com
+[Growth Hacking]: https://fr.wikipedia.org/wiki/Growth_Hacking
+
