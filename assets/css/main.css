@@ -120,6 +120,17 @@ img {
   fill: #ff0a16;
 }
 
+#sidebar p {
+  text-align: center;
+  font-size: 0.8em;
+  height: 80px;
+  margin-top: 0px;
+  text-decoration: overline;
+}
+#sidebar a {
+  text-decoration: none;
+}
+
 svg:not(:root) {
   overflow:hidden
 }
