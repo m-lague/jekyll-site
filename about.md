@@ -22,8 +22,23 @@ Je peux intervenir au sein du projet soit du coté technique soit du coté busin
 
 >Ce que j'aime: **c'est résoudre les problèmes**.
 
-```
+```ruby
+# GO LEAN est l'acronyme du méta-modèle de la méthodologie Lean Startup
 
+def go_lean # définition de la méthode go_lean
+  { G: "Goal",
+    O: "Observe and orient",
+    L: "Learn, leverage or lift",
+    E: "Experiment",
+    A: "Analyse",
+    N: "Next action"
+  }
+end
+
+# Tant que les visiteurs ne sont pas transformés en clients heureux
+while visitor != happy_customer
+  go_lean # appel de la méthode GO LEAN
+end
 
 ```
 
