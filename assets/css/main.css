@@ -113,6 +113,13 @@ img {
   margin-top: 10%;
 }
 
+#sidebar .love {
+  width: 1.5em;
+  display: inline-block;
+  vertical-align: middle;
+  fill: #ff0a16;
+}
+
 svg:not(:root) {
   overflow:hidden
 }
