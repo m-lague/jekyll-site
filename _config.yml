@@ -21,11 +21,11 @@ disqus_username: disqus_username
 # Social Media
 # Remove the item if you don't need it
 github_username: m-lague
-facebook_username: facebook_username
+facebook_username:
 twitter_username: MathieuLAGUE
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+instagram_username:
+linkedin_username:
+medium_username:
 
 # Build settings
 markdown: kramdown
@@ -49,8 +49,8 @@ links:
     url: /about/
   - title: Contact
     url: /contact/
-  - title: Portfolio
-    url: /portofolio/
+  # - title: Portfolio
+  #   url: /portofolio/
 
 
 # Exclude my node related stuff

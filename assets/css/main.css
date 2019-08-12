@@ -131,6 +131,17 @@ img {
   text-decoration: none;
 }
 
+#sidebar .menu-social {
+  width: 28px;
+  height: 28px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+  margin-left: 54px;
+  margin-top: 33px;
+
+}
+
 svg:not(:root) {
   overflow:hidden
 }
