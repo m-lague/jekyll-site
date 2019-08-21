@@ -11,6 +11,7 @@ tags:
 - WebApp
 twitter_text:
 introduction: Quelles méthodes pour créer un site internet ou mieux une application web.
+comments: true
 ---
 
 
