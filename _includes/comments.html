@@ -1,8 +1,12 @@
 <section class="comments">
     <h3>Comments</h3>
-    <div id="disqus_thread"></div>
+    {% if page.comments %}
+      <div id="disqus_thread"></div>
+      {% include disqus.html %}
+    {% endif %}
 </section>
-<script type="text/javascript">
+
+<!-- <script type="text/javascript">
     var disqus_loaded = false;
 
     function load_disqus()
@@ -23,4 +27,4 @@
                 load_disqus()
         }
     };
-</script>
+</script> -->
