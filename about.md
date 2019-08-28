@@ -42,7 +42,7 @@ end
 
 ```
 
-Kit de survie que j'ai toujours sur moi: [Ruby on Rails], [Jekyll], [GitHub] pour la partie technique et [Lean Stack], [Slack], [Growth Hacking] pour la partie startégie et gestion de projet.
+Kit de survie que j'ai toujours sur moi: [Ruby on Rails], [Jekyll], [GitHub] pour la partie technique et [Lean Stack], [Slack], [Growth Hacking], [Freedcamp] pour la partie startégie et gestion de projet.
 
 Je m'adapte aussi aux outils que vous utilisez déjà pour fluidifier au maximum les échanges et le travail.
 
@@ -62,4 +62,5 @@ Vous souhaitez qu'on en parle ? [Écrivez-moi.]({{ site.url }}{{ site.baseurl }}
 [Basecamp]: https://basecamp.com/
 [Slack]: https://slack.com
 [Growth Hacking]: https://fr.wikipedia.org/wiki/Growth_Hacking
+[Freedcamp]: 'https://freedcamp.com/'
 
